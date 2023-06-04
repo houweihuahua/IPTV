@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "TXT",
+      "url": "//Android/data/io.github.visnkmr.wirelessexplorer/files/hbyd.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
